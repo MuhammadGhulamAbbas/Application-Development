@@ -1,2 +1,2 @@
 # Application-Development
-"This repository is the foundation course of IBA's MS Data Science program. It covers Python, Flask, Django, HTML, CSS, JavaScript, EDA, Feature Engineering, and Data Analysis, providing a holistic skill set for data-driven application development."
+"This repository constitutes the foundational course of IBA's MS Data Science program. It encompasses a wide range of subjects including Python, Flask, Django, HTML, CSS, JavaScript, Exploratory Data Analysis (EDA), Feature Engineering, Data Analysis, and Data Pre-processing for analysis and machine learning models. This comprehensive curriculum aims to equip students with a holistic skill set essential for the development of data-driven applications."
